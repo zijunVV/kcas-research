@@ -1,0 +1,30 @@
+{
+  "mode": "Comparison Report",
+  "assets": ["NVIDIA", "Micron"],
+  "asset_type": "public companies",
+  "research_question": "Which asset has higher long-term quality through knowledge capital and compounding?",
+  "must_reuse_kcas_core": true,
+  "core_outputs_required": [
+    "Asset Quality Score",
+    "Investment Attractiveness Score",
+    "Final Allocation Score",
+    "Knowledge Capital Analysis",
+    "Compounding Potential",
+    "Reflexivity Analysis"
+  ],
+  "additional_outputs": [
+    "Knowledge Capital Ranking",
+    "Compounding Ranking",
+    "Asset Quality Ranking",
+    "Opportunity Ranking",
+    "Research Conclusion"
+  ],
+  "constraints": [
+    "Do not recommend portfolio allocations",
+    "Do not recommend position sizing",
+    "Focus on understanding assets",
+    "Prioritize knowledge capital",
+    "Prioritize compounding",
+    "Identify the hardest asset to replicate"
+  ]
+}

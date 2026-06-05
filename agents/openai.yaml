@@ -1,0 +1,4 @@
+interface:
+  display_name: "KCAS Research"
+  short_description: "Research and rank knowledge-capital assets"
+  default_prompt: "Use $kcas-research to compare and rank assets by knowledge capital, compounding quality, and long-term research merit."
