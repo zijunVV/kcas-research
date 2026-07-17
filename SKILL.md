@@ -1,6 +1,6 @@
 ---
 name: kcas-research
-description: Research layer for the Knowledge Capital Asset System. Use when Codex needs to identify, compare, rank, and explain high-quality assets through knowledge capital, compounding potential, asset quality, opportunity ranking, sector landscapes, and long-term research merit. Supports single asset research, pairwise comparisons, multi-asset rankings, and sector research for public companies, private companies, startups, AI businesses, SaaS companies, acquisitions, digital products, creator businesses, personal brands, real estate projects, and other cash-generating assets. Does not perform portfolio construction, position sizing, or allocation recommendations.
+description: Research layer for the Knowledge Capital Allocation System. Use when Codex needs to identify, compare, rank, and explain high-quality assets through knowledge capital, compounding potential, asset quality, opportunity ranking, sector landscapes, and long-term research merit. Supports single asset research, pairwise comparisons, multi-asset rankings, and sector research for public companies, private companies, startups, AI businesses, SaaS companies, acquisitions, digital products, creator businesses, personal brands, real estate projects, and other cash-generating assets. Does not perform portfolio construction, position sizing, or allocation recommendations.
 ---
 
 # KCAS Research
