@@ -1,5 +1,9 @@
 # KCAS Research
 
+> *A research framework for identifying, comparing and ranking long-term compounding assets — and explaining why each one compounds.*
+>
+> Part of the four-part **KCAS ecosystem**: **create** (KCAB OS) → **evaluate** (Core) → **research** (Research) → **allocate** (Portfolio).
+
 KCAS Research is a knowledge-capital research system designed to identify, compare, rank, and explain long-term compounding assets.
 
 ## What is KCAS Research?
